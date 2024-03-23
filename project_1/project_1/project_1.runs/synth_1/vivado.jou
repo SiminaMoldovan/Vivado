@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Wed May 24 15:13:22 2023
+# Process ID: 14236
+# Current directory: C:/Users/Petros/Desktop/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log proiect.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source proiect.tcl
+# Log file: C:/Users/Petros/Desktop/project_1/project_1.runs/synth_1/proiect.vds
+# Journal file: C:/Users/Petros/Desktop/project_1/project_1.runs/synth_1\vivado.jou
+# Running On: DESKTOP-0JN7GCD, OS: Windows, CPU Frequency: 2096 MHz, CPU Physical cores: 12, Host memory: 14870 MB
+#-----------------------------------------------------------
+source proiect.tcl -notrace
